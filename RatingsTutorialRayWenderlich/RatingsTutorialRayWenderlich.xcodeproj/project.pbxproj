@@ -41,6 +41,7 @@
 		3C176FD91B2768C00002D8DB /* Player.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C176FD81B2768C00002D8DB /* Player.swift */; };
 		3C176FDB1B27692E0002D8DB /* SampleData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C176FDA1B27692E0002D8DB /* SampleData.swift */; };
 		3C176FDD1B27702A0002D8DB /* PlayerCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C176FDC1B27702A0002D8DB /* PlayerCell.swift */; };
+		3C80F5A81B41B02900A6F1D0 /* PlayerDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C80F5A71B41B02900A6F1D0 /* PlayerDetailsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -92,6 +93,7 @@
 		3C176FD81B2768C00002D8DB /* Player.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Player.swift; sourceTree = "<group>"; };
 		3C176FDA1B27692E0002D8DB /* SampleData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SampleData.swift; sourceTree = "<group>"; };
 		3C176FDC1B27702A0002D8DB /* PlayerCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlayerCell.swift; sourceTree = "<group>"; };
+		3C80F5A71B41B02900A6F1D0 /* PlayerDetailsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlayerDetailsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -144,6 +146,7 @@
 				3C176F8C1B2763090002D8DB /* Images.xcassets */,
 				3C176F8E1B2763090002D8DB /* LaunchScreen.xib */,
 				3C176F831B2763090002D8DB /* Supporting Files */,
+				3C80F5A71B41B02900A6F1D0 /* PlayerDetailsViewController.swift */,
 			);
 			path = RatingsTutorialRayWenderlich;
 			sourceTree = "<group>";
@@ -331,6 +334,7 @@
 				3C176FDD1B27702A0002D8DB /* PlayerCell.swift in Sources */,
 				3C176FD91B2768C00002D8DB /* Player.swift in Sources */,
 				3C176F881B2763090002D8DB /* ViewController.swift in Sources */,
+				3C80F5A81B41B02900A6F1D0 /* PlayerDetailsViewController.swift in Sources */,
 				3C176FD71B2768660002D8DB /* PlayersViewControllerTableViewController.swift in Sources */,
 				3C176FDB1B27692E0002D8DB /* SampleData.swift in Sources */,
 				3C176F861B2763090002D8DB /* AppDelegate.swift in Sources */,
@@ -529,6 +533,7 @@
 				3C176FA11B27630A0002D8DB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3C176FA21B27630A0002D8DB /* Build configuration list for PBXNativeTarget "RatingsTutorialRayWenderlichTests" */ = {
 			isa = XCConfigurationList;
@@ -537,6 +542,7 @@
 				3C176FA41B27630A0002D8DB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

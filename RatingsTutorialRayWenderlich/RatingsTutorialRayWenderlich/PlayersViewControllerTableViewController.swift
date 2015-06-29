@@ -63,6 +63,14 @@ class PlayersViewControllerTableViewController: UITableViewController {
         cell.ratingImageView.image = imageForRating(player.rating)
         return cell
     }
+    
+    @IBAction func cancelToPlayersViewController(segue: UIStoryboardSegue) {
+        
+    }
+    
+    @IBAction func savePlayerDetail(segue: UIStoryboardSegue) {
+        
+    }
 
     /*
     // Override to support conditional editing of the table view.

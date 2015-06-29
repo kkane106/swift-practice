@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>56AF1686-2A31-45A8-BE38-7D4A127D78D5</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>RatingsTutorialRayWenderlich</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>B9B8B28E2FC413CB292F80BC60484B1B27B53CA5</key>
 		<string>https://github.com/kkane106/swift-practice.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>RatingsTutorialRayWenderlich/RatingsTutorialRayWenderlich.xcodeproj/project.xcworkspace</string>
+	<string>RatingsTutorialRayWenderlich/RatingsTutorialRayWenderlich.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>B9B8B28E2FC413CB292F80BC60484B1B27B53CA5</key>

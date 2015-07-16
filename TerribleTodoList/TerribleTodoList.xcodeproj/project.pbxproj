@@ -13,6 +13,7 @@
 		3CFF65301B3B41A4000D0A0A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3CFF652F1B3B41A4000D0A0A /* Images.xcassets */; };
 		3CFF65331B3B41A4000D0A0A /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3CFF65311B3B41A4000D0A0A /* LaunchScreen.xib */; };
 		3CFF653F1B3B41A4000D0A0A /* TerribleTodoListTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CFF653E1B3B41A4000D0A0A /* TerribleTodoListTests.swift */; };
+		3CFF65491B3B48C9000D0A0A /* ContactViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CFF65481B3B48C9000D0A0A /* ContactViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		3CFF65381B3B41A4000D0A0A /* TerribleTodoListTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TerribleTodoListTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3CFF653D1B3B41A4000D0A0A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3CFF653E1B3B41A4000D0A0A /* TerribleTodoListTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TerribleTodoListTests.swift; sourceTree = "<group>"; };
+		3CFF65481B3B48C9000D0A0A /* ContactViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContactViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 			children = (
 				3CFF65281B3B41A4000D0A0A /* AppDelegate.swift */,
 				3CFF652A1B3B41A4000D0A0A /* ViewController.swift */,
+				3CFF65481B3B48C9000D0A0A /* ContactViewController.swift */,
 				3CFF652C1B3B41A4000D0A0A /* Main.storyboard */,
 				3CFF652F1B3B41A4000D0A0A /* Images.xcassets */,
 				3CFF65311B3B41A4000D0A0A /* LaunchScreen.xib */,
@@ -214,6 +217,7 @@
 			files = (
 				3CFF652B1B3B41A4000D0A0A /* ViewController.swift in Sources */,
 				3CFF65291B3B41A4000D0A0A /* AppDelegate.swift in Sources */,
+				3CFF65491B3B48C9000D0A0A /* ContactViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
